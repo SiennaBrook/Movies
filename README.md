@@ -1,3 +1,2 @@
 
-"# Movix" 
-Dipan loves Shreya
+A website to check movie ratings
